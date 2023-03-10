@@ -28,11 +28,7 @@
 <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
-<div align="center">
 
-  ![Snake animation](https://github.com/Iamatsuka/Iamatsuka/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
 
 
